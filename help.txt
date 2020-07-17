@@ -1,0 +1,2 @@
+<<button "what button says">><<replace "#map">><</replace>><</button>>.
+<div id="map"></div>
